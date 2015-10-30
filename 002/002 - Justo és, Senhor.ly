@@ -1,7 +1,7 @@
 \version "2.19.28"
 
 \header {
-  title = "Justo és, Senhor!"
+  title = "002 - Justo és, Senhor!"
   composer = "João Gomes da Rocha"
 }
 
